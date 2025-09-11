@@ -4,9 +4,8 @@
 
 ## About Me
 
-**In English:**  
 Currently studying software development and testing, while working as an Online Admin Executive at iSTYLE Hungary Kft. I am passionate about programming, automation, and e-commerce, always eager to learn new technologies. I thrive on collaboration, clear communication, and continuous improvement—often with a touch of humor.  
-I will complete my Software Developer and Tester studies in April 2025, and plan to continue later as a Software Developer student.
+I will complete my Software Developer and Tester studies in April 2025, and plan to continue later as a Software Engineer student.
 
 ---
 
@@ -27,7 +26,7 @@ I will complete my Software Developer and Tester studies in April 2025, and plan
 - React, Java, object-oriented and other modern programming paradigms
 - Shopify & Liquid templating
 - Responsive web design & testing best practices
-- Preparing to be [Software Developer]
+- Preparing to be [Software Engineer]
 
 ---
 
