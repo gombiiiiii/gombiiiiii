@@ -8,7 +8,7 @@
 ### GitHub Stats
 ![Top Language 1.]([https://img.shields.io/badge/Top%20Language-HTML-yellow?style=for-the-badge&logo=html)
 ![Top Language 2.](https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python)
-![Top Language 2.](https://img.shields.io/badge/Top%20Language-Blade-red?style=for-the-badge&logo=blade)
+![Top Language 3.](https://img.shields.io/badge/Top%20Language-Blade-red?style=for-the-badge&logo=blade)
 
 ### GitHub Stats
 ![Commits](https://img.shields.io/badge/Commits-279-green?style=for-the-badge)
