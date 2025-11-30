@@ -6,19 +6,12 @@
 
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gombiiiiii&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gombiiiiii&show_icons=true&theme=radical)
+![Top Language 1.]([https://img.shields.io/badge/Top%20Language-HTML-yellow?style=for-the-badge&logo=html)
+![Top Language 2.](https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python)
+![Top Language 2.](https://img.shields.io/badge/Top%20Language-Blade-red?style=for-the-badge&logo=blade)
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gombiiiiii&layout=compact&theme=radical)
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=gombiiiiii)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gombiiiiii&amp;layout=pie)
-
-### Other
-
-![Repo1 Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Repo2 Status](https://img.shields.io/badge/Status-WIP-yellow)
-
+### GitHub Stats
+![Commits](https://img.shields.io/badge/Commits-279-green?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/gombiiiiii?style=social)
 
 
@@ -74,4 +67,4 @@ Currently studying software development and testing, while working as an Online 
 
 ---
 
-_Thanks for stopping by! If you’re interested in collaboration or just want to connect over tech, games, or web, reach out on LinkedIn._
+_Thanks for stopping by!
