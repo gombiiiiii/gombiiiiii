@@ -2,10 +2,31 @@
 
 
 
+## Overview
+
+
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gombiiiiii&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gombiiiiii&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gombiiiiii&layout=compact&theme=radical)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=gombiiiiii)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gombiiiiii&amp;layout=pie)
+
+### Other
+
+![Repo1 Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Repo2 Status](https://img.shields.io/badge/Status-WIP-yellow)
+
+![Followers](https://img.shields.io/github/followers/gombiiiiii?style=social)
+
+
+---
+
 ## About Me
 
-Currently studying software development and testing, while working as an Online Admin Executive at iSTYLE Hungary Kft. I am passionate about programming, automation, and e-commerce, always eager to learn new technologies. I thrive on collaboration, clear communication, and continuous improvement—often with a touch of humor.  
-I will complete my Software Developer and Tester studies in April 2025, and plan to continue later as a Software Engineer student.
+Currently studying software development and testing, while working as an Online Admin Executive. I am passionate about programming, automation, and e-commerce, always eager to learn new technologies. I thrive on collaboration, clear communication, and continuous improvement—often with a touch of humor.  
 
 ---
 
@@ -36,16 +57,6 @@ I will complete my Software Developer and Tester studies in April 2025, and plan
 - Game development (Huge Mass Effect fan!)
 - Social gatherings and trips with friends
 - Exploring new tech, automation, and digital solutions
-
----
-
-## Featured Projects
-
-- Sorry, only private repos at the moment! 🤫
-
-
-- Community highlight:  
-  I’m inspired by projects like [PowerToys](https://github.com/microsoft/PowerToys) 
 
 ---
 
