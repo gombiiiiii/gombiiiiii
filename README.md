@@ -6,10 +6,10 @@
 
 
 ### GitHub Stats
-![Top Language 1.](https://img.shields.io/badge/Top%20Language-html_css_javascript-yellow?style=for-the-badge&logo=javascript))
+![Top Language 1.](https://img.shields.io/badge/Top%20Language-html_css_javascript-yellow?style=for-the-badge&logo=javascript)
 ![Top Language 2.](https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python)
 ![Top Language 3.](https://img.shields.io/badge/Top%20Language-Blade-red?style=for-the-badge&logo=blade)
-![Top Language 4.]([https://img.shields.io/badge/Top%20Language-swift-orange?style=for-the-badge&logo=swift))
+![Top Language 4.](https://img.shields.io/badge/Top%20Language-swift-orange?style=for-the-badge&logo=swift)
 
 ### GitHub Stats
 ![Commits](https://img.shields.io/badge/Commits-279-green?style=for-the-badge)
