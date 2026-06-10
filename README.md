@@ -12,7 +12,7 @@
 ![Top Language 4.](https://img.shields.io/badge/Top%20Language%204&#46;-swift-orange?style=for-the-badge&logo=swift)
 
 ### GitHub Stats
-![Commits](https://img.shields.io/badge/Commits-402-green?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-1349-green?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/gombiiiiii?style=social)
 
 
