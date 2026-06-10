@@ -12,7 +12,7 @@
 ![Top Language 4.](https://img.shields.io/badge/Top%20Language%204&#46;-swift-orange?style=for-the-badge&logo=swift)
 
 ### GitHub Stats
-![Commits](https://img.shields.io/badge/Commits-279-green?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-402-green?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/gombiiiiii?style=social)
 
 
@@ -20,13 +20,13 @@
 
 ## About Me
 
-Currently studying software development and testing, while working as an Online Admin Executive. I am passionate about programming, automation, and e-commerce, always eager to learn new technologies. I thrive on collaboration, clear communication, and continuous improvement—often with a touch of humor.  
+Currently studying software development and testing, while working as an Online Admin Executive. I am passionate about programming, automation, and e-commerce, always eager to learn new technologies. 
 
 ---
 
 ## Skills & Technologies 
 
-- **Languages:** Python, Java, JavaScript, HTML/CSS, Shell scripting, SQL
+- **Languages:** Python, Java, JavaScript, HTML/CSS, QML, Shell scripting, SQL
 - **Frameworks & Tools:** Node.js, React, Laravel, Liquid, Bootstrap, Responsive Design
 - **E-commerce Platforms:** Magento, Shopify
 - **Automation:** Microsoft Power Automate, Excel Workflows
@@ -41,24 +41,14 @@ Currently studying software development and testing, while working as an Online 
 - React, Java, object-oriented and other modern programming paradigms
 - Shopify & Liquid templating
 - Responsive web design & testing best practices
-- Preparing to be [Software Engineer]
 
 ---
 
 ## Hobbies & Interests
 
-- Backend development (especially non-database related logic)
-- Game development (Huge Mass Effect fan!)
+- Gaming
 - Social gatherings and trips with friends
 - Exploring new tech, automation, and digital solutions
-
----
-
-## Languages
-
-- Hungarian (Native)
-- English (Fluent)
-- German (B2)
 
 ---
 
